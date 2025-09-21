@@ -1,17 +1,41 @@
-### Hi there 👋, my name is Andrey
-#### I am a student developer, I do a little bit of everything.
-![I am a student developer, I do a little bit of everything.](https://media1.tenor.com/m/1Nc6rtScQEUAAAAd/thats-it-yes-thats-it.gif)
+# Привет, я Geritoda 👋
 
-I am a student who develops software within the framework of my imagination and the requirements of the technical school.
+Студент, который грызёт гранит программирования и не планирует останавливаться.
 
-Skills: C#/C++/Python/MySQL/PostreSQL
+## 🛠️ Мой стек
 
-- 📫 How to reach me: red.geritoda@gmail.com 
+**ОС:**  
+![Windows](https://img.shields.io/badge/Windows-7%20|%2010%20|%2011-0078D6?style=flat&logo=windows)
+![Debian](https://img.shields.io/badge/Debian-12%20|%2013-A81D33?style=flat&logo=debian)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linuxmint)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)
 
+**Пакетные менеджеры:**  
+`apt` | `flatpak` | `tsp` | `ssh`
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/geritoda1)  
+**Среды разработки:**  
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=flat&logo=qt)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode)
+![pgAdmin](https://img.shields.io/badge/pgAdmin4-336791?style=flat)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geritoda1)](https://github.com/anuraghazra/github-readme-stats)
+**Базы данных:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geritoda1&show_icons=true)  
+## 🚀 В планах
 
+- Углубиться в **Docker**
+- Разработка на **Qt**
+
+## 📊 Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geritoda&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geritoda&layout=compact&theme=radical)
+
+## 📫 Связь
+
+Пиши: [red.geritoda@gmail.com](mailto:red.geritoda@gmail.com)
